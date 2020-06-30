@@ -1,0 +1,4 @@
+rootProject.name='AnnotaionStudy_psyivt'
+include ':app'
+include ':annotation'
+include ':annotation_processor'
